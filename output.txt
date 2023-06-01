@@ -1,0 +1,23 @@
+TRIAL 1
+
+Original prompt(input by user)
+The quick brown fox jumps over the lazy dog.
+
+Shorter prompt(output according to the script)
+quick brown fox jumps lazy dog
+
+TRIAL 2
+
+Original prompt:
+Regular exercise and healthy eating are important for maintaining good physical and mental health. Exercise can help to reduce the risk of chronic diseases such as heart disease, diabetes, and obesity, while healthy eating can provide the body with the nutrients it needs to function properly. In addition, exercise and healthy eating can help to improve mood, reduce stress, and increase energy levels.
+
+Shorter prompt:
+regular exercise healthy eating important maintaining good physical mental health reduce risk chronic disease heart diabetes obesity provide body nutrient function properly improve mood reduce stress increase energy level
+
+TRIAL 3
+
+Original article:
+A new study has found that spending time in nature can help to reduce stress and improve mental health. The study, which was conducted by researchers at the University of Michigan, found that spending just 20 minutes in nature can help to lower levels of the stress hormone cortisol. In addition, spending time in nature has been shown to improve mood, increase creativity, and boost cognitive function.
+
+Shorter summary:
+new study spending time nature reduce stress improve mental health lower level stress hormone cortisol improve mood increase creativity boost cognitive function 
